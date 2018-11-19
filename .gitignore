@@ -5,6 +5,7 @@ __pycache__/
 *.ipynb
 *.r
 *.rmd
+*.yml
 
 # C extensions
 *.so
