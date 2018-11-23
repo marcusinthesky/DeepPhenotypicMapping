@@ -267,8 +267,6 @@ dependencies:
     - newspaper3k==0.2.6
     - nltk==3.2.5
     - requests-file==1.4.3
-    - semisup-learn==0.0.1
-    - sklearn==0.0
     - tables==3.4.4
     - tldextract==2.2.0
     - torch==0.4.0
